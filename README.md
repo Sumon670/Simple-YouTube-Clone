@@ -1,6 +1,29 @@
-# Getting Started with Create React App
+# Simple YouTube Clone Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### A YouTube Clone app made by codemansumon [check here!!](https://fascinating-alfajores-bee5a6.netlify.app/) :sparkles:
+
+## Features :clipboard:
+
+* Responsive website
+* Have a search bar for any kind of video searching
+* Have separate feeds for different categoires
+* Have the Channel details page
+* Can play any video with seek, stop, like count and views
+
+
+## Tech Used :computer:
+
+##### Code Editor - 
+* VS Code
+
+##### Build Using - 
+* React Js 
+* RapidApi
+* JavaScript
+* HTML
+* CSS
+* Material Ui
+* Netlify (For Hosting the website)
 
 ## Available Scripts
 
